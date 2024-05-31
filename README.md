@@ -53,13 +53,6 @@ python3 scanner.py 192.168.1.1 192.168.1.10
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or inquiries, please contact [your_email@example.com](mailto:your_email@example.com).
 
 ---
 
